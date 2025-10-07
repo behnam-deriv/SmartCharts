@@ -175,6 +175,7 @@
     },
     "overrides": {
         "braces": "^3.0.3",
+        "cipher-base": "1.0.5",
         "webpack-bundle-analyzer": {
             "ws": "^8.18.2"
         }
